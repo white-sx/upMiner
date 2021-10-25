@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eecb5d36.chunk.css",
+    "main.js": "/static/js/main.9f61d50f.chunk.js",
+    "main.js.map": "/static/js/main.9f61d50f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.58727fb2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.58727fb2.js.map",
+    "static/js/2.16ad7ea9.chunk.js": "/static/js/2.16ad7ea9.chunk.js",
+    "static/js/2.16ad7ea9.chunk.js.map": "/static/js/2.16ad7ea9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.eecb5d36.chunk.css.map": "/static/css/main.eecb5d36.chunk.css.map",
+    "static/js/2.16ad7ea9.chunk.js.LICENSE.txt": "/static/js/2.16ad7ea9.chunk.js.LICENSE.txt",
+    "static/media/bag-svgrepo-com.1c583de4.svg": "/static/media/bag-svgrepo-com.1c583de4.svg",
+    "static/media/bank-building-svgrepo-com.76bde248.svg": "/static/media/bank-building-svgrepo-com.76bde248.svg",
+    "static/media/diamond-svgrepo-com.e9d3fc09.svg": "/static/media/diamond-svgrepo-com.e9d3fc09.svg",
+    "static/media/Banner.css": "/static/media/fluxo-de-caixa-de-investimentos.9fdc5b89.jpg",
+    "static/media/global-svgrepo-com.5066119b.svg": "/static/media/global-svgrepo-com.5066119b.svg",
+    "static/media/grafico.fc06830b.png": "/static/media/grafico.fc06830b.png",
+    "static/media/icons8-cardápio.89e31bdb.svg": "/static/media/icons8-cardápio.89e31bdb.svg",
+    "static/media/judge-hammer-svgrepo-com.9a53bef8.svg": "/static/media/judge-hammer-svgrepo-com.9a53bef8.svg",
+    "static/media/man-svgrepo-com.508ef740.svg": "/static/media/man-svgrepo-com.508ef740.svg",
+    "static/media/pine-svgrepo-com.9c0b402a.svg": "/static/media/pine-svgrepo-com.9c0b402a.svg",
+    "static/media/prohibited-svgrepo-com.31630835.svg": "/static/media/prohibited-svgrepo-com.31630835.svg",
+    "static/media/social-media-campaign-svgrepo-com.8f7128bf.svg": "/static/media/social-media-campaign-svgrepo-com.8f7128bf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58727fb2.js",
+    "static/js/2.16ad7ea9.chunk.js",
+    "static/css/main.eecb5d36.chunk.css",
+    "static/js/main.9f61d50f.chunk.js"
+  ]
+}
